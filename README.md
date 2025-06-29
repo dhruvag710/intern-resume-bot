@@ -1,4 +1,4 @@
-# Smart Mail AI - Internship Email Processor
+# Internship Email Processor and Resume scanner
 
 A specialized email processing system that automatically monitors Gmail for internship applications, analyzes resumes/CVs, and categorizes candidates as "Promising" or "Not Promising" using AI.
 
@@ -20,15 +20,6 @@ The AI evaluates candidates based on:
 - **GPA**: Must be 8.0 or above (if mentioned)
 - **Skills**: Must have relevant technical skills (ML, AI, Python, Computer Vision, etc.)
 
-## 🔍 Keywords Detected
-
-The system looks for these keywords (case-insensitive):
-- "internship"
-- "intern"
-- "research intern/ internship"
-- "summer internship"
-- "winter internship"
-- "research application"
 
 ## 🏗️ Architecture
 
@@ -234,4 +225,4 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please open an issue on GitHub. 
+If you encounter any issues or have questions, please open an issue on GitHub
